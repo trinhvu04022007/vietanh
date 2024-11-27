@@ -1,5 +1,4 @@
 # vietanh
-<!DOCTYPE html >
 <html>
   <head>
   <meta name="google-site-verification" content="l1SFslDzLvCPAOglJsuOGh8YaXYZBPLqlBLsOlGwmPQ" />
@@ -46,4 +45,3 @@
 	</p>
   </body>
 </html>
-i.imgur.com
